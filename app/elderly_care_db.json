@@ -1,0 +1,27 @@
+{
+  "routines": [
+    {
+      "date": "2026-06-24",
+      "time": "08:00 AM",
+      "activity": "Morning Medication (blood pressure pill)"
+    },
+    {
+      "date": "2026-06-24",
+      "time": "10:00 AM",
+      "activity": "Meditation session (15 mins mindfulness)"
+    },
+    {
+      "date": "2026-06-24",
+      "time": "02:00 PM",
+      "activity": "Doctor visit - General checkup with Dr. Smith"
+    }
+  ],
+  "health_logs": [
+    {
+      "timestamp": "2026-06-24T09:00:00",
+      "symptoms": "Feeling slightly tired, no pain.",
+      "mood": "Peaceful",
+      "blood_pressure": "120/80"
+    }
+  ]
+}
